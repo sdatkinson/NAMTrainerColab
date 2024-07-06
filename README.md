@@ -1,2 +1,2 @@
 # NAMTrainerColab
-NAM Trainer to be used on Google Colab
+A nice, user-friendly NAM Trainer to be used on Google Colab.
